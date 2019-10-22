@@ -1,0 +1,6 @@
+array = ["Milo", "Otis", "Garfield"]
+
+const append =
+prepend,
+removeLast and
+removeFirst
